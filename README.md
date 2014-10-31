@@ -1,4 +1,4 @@
 braindump
 =========
 
-novas idéias afins
+Novas idéias e afins.
