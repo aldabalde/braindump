@@ -1,0 +1,4 @@
+braindump
+=========
+
+novas idéias afins
