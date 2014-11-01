@@ -1,0 +1,35 @@
+" Mouse and backspace
+set mouse=a
+
+" Rebind <leader> key
+let mapleader = ","
+
+" Move code blocks
+vnoremap < <gv
+vnoremap > >gv
+
+set number
+set tw=79
+set nowrap
+set fo-=t
+
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set shiftround
+set expandtab
+
+" Indent automatically depending on filetype
+set autoindent
+filetype plugin indent on
+
+" Formating paragraph
+vmap Q gq
+nmap Q gqap
+
+" Change colorscheme from default to delek
+colorscheme desert
+
+nmap <F3> a<C-R>=strftime("%Y-%m-%d %a %I:%M %p")<CR><Esc>
+imap <F3> <C-R>=strftime("%Y-%m-%d %a %I:%M %p")<CR>
+
