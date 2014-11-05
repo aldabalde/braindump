@@ -122,7 +122,29 @@ Oportunidade para criar novas soluções a partir de um cenário inédito.
 
 http://www.intel.com/content/www/us/en/internet-of-things/infographics/guide-to-iot.html
 
+"""Things will become part of the cloud, not just sites, but rhe real world
 
+How we will do that (IoT) ?
+Each thing will have an identity, that you can comunicate with, and senses ( thru sensors). 
+Embeded with any kind of inteligence, and memory.
+wearables - e-health, telemedicine
+search things - "ask google where is my keys, my child?" 
+"ask google what is the temperature at my car that is on the street"
+remote control and self administration based on some rules.
+
+Technocracy - ruled by technology
+
+panopticon- The concept of the design is to allow a single watchman to observe
+(-opticon) all (pan-) inmates of an institution without the inmates being able
+to tell whether or not they are being watched.  The Panopticon creates a
+consciousness of permanent visibility as a form of power, where no bars,
+chains, and heavy locks are necessary for domination any more. M.Foucault.
+[http://en.wikipedia.org/wiki/Panopticon]
+
+IoT is a HiTech panopticon
+
+IoT could become a weapon of mass distriction by accessing this system
+"""
 TedX: O que é IoT - Dr.John Barrett
 https://www.youtube.com/watch?v=QaTIt1C5R-M
 
