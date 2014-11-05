@@ -1,0 +1,196 @@
+
+Terceira plataforma 
+Covergência entre :
+- Computação em Nuvem  
+- Big Data
+- Conectividade Social 
+- Tecnologia móvel 
+
+
+Tecnologia móvel 
+
+È Composta por 
+- Banda larga 4G / Cobertura WiFi
+- Smart phones / Ipad / 
+- IoT
+
+
+Tendências IDC
+
+Terceira Plataforma incentiva upgrade das redes de dados
+Internet das Coisas irá acelerar com a adoção por B2B
+Operadoras vão vender mais serviços ligados à Terceira Plataforma
+
+fonte: http://www.globalweb.com.br/2014/02/terceira-plataforma-de-ti-dez-tendencias-para-o-brasil-em-2014/
+
+Desafios
+- Transmissão de dados através de links não confiáveis ou temporários
+- Projeto composto por um time multidisciplinar ( sw, hw, redes, telecom)
+- Integração de diversos equipamentos e meios e softwares - "Open Source helps
+  a lot"
+- Vários padrões envolvidos ( ETSI M2M, #GPP, OSGi, DNLA, uPnP, I3E, IEC, CEN,
+  ..)
+
+"""What Is the Internet of Things?
+
+The Internet of Things (IoT) is the network of physical objects accessed through
+the Internet, as defined by technology analysts and visionaries. These objects
+contain embedded technology to interact with internal states or the external
+environment. In other words, when objects can sense and communicate, it changes
+how and where decisions are made, and who makes them."""
+<a href="http://www.cisco.com/web/solutions/trends/iot/overview.html"> Cisco IoT
+Definition</a>
+
+"""Machine to Machine (M2M) refers to technologies that allow both wireless and
+wired systems to communicate with other devices of the same type.[1][2] M2M is a
+broad term as it does not pinpoint specific wireless or wired networking,
+information and communications technology. This broad term is particularly used
+by business executives. M2M is considered an integral part of the Internet of
+Things (IoT) and brings several benefits to industry and business [3] in general
+as it has a wide range of applications such as industrial automation, logistics,
+Smart Grid, Smart Cities, health, defence etc. mostly for monitoring but also
+for control purposes."""
+<a href= "http://en.wikipedia.org/wiki/Machine_to_machine" >M2M </a>
+
+IoT
+Sensores-->Distribuidos-->Interconectados-->Inteligentes-->Alto Volumes de Dados
+
+
+The River and Estuary Observatory Network (REON) is a real-time observation and
+monitoring network for rivers and estuaries. REON allows for continuous
+monitoring of physical, chemical, biological and atmospheric data from points in
+New York’s Hudson and St. Lawrence River watersheds via an integrated network of
+sensors, robotics, mobile monitoring and computational technology deployed in
+the rivers. 
+<a href="http://www.bire.org/river-and-estuary-observatory-network/"> REON</a>
+
+
+
+"""The IoT is about the web expanding into the physical world""" 
+-- IoT é a expansão da web para o mundo real.
+
+
+IoT é um conjunto de hardware conectados entre si gnalisando e erando dados com
+valor agregado pelo conjunto. 
+
+
+Evoluçãop de hw:
+2 [2006] >> 15 [2015] >> 200 [2020]
+
+
+         << Sensor <<
+Sistema               Mundo Real
+         >> Atuador >>          
+
+
+
+IoT termo criado por Kevin Ashton (MIT) em 1999, com discussões iniciadas desde 1991.
+Com a seguinte pergunta : E se a internet fosse capaz de ir além dos desktops e
+estivesse ligada aos diversos dispositivos que nos rodeiam ?
+
+
+Protocolo de Comunicação 
+ HTTP 
+
+ MQTT (MQ Telemetry transport)
+ "MQTT stands for MQ Telemetry Transport. It is a publish/subscribe, extremely
+ simple and lightweight messaging protocol, designed for constrained devices
+ and low-bandwidth, high-latency or unreliable networks. The design principles
+ are to minimise network bandwidth and device resource requirements whilst also
+ attempting to ensure reliability and some degree of assurance of delivery.
+ These principles also turn out to make the protocol ideal of the emerging
+ “machine-to-machine” (M2M) or “Internet of Things” world of connected devices,
+ and for mobile applications where bandwidth and battery power are at a
+ premium." CoAP ( Constrained Application Protocol)
+
+ fonte : http://mqtt.org
+
+
+ Protocol Specification : https://www.ibm.com/developerworks/webservices/library/ws-mqtt/
+ mqtt wiki :  https://github.com/mqtt/mqtt.github.io/wiki
+
+
+Zigbee
+http://en.wikipedia.org/wiki/ZigBee
+http://www.zigbee.org/
+
+
+Esmiuçar Detalhes da apresentação :
+https://pt.slideshare.net/wso2.org/io-t-referencearchitecturewebinar
+
+Oportunidade para criar novas soluções a partir de um cenário inédito.
+
+http://www.intel.com/content/www/us/en/internet-of-things/infographics/guide-to-iot.html
+
+
+
+
+
+
+Yocto project
+
+
+Nest : https://nest.com/
+
+Goji : http://www.gojiaccess.com/
+
+Sense Mother : https://sen.se/
+
+Basis : http://www.mybasis.com/
+
+Galileo : http://arduino.cc/en/ArduinoCertified/IntelGalileo
+
+Kit Telefonica : http://iot.telefonicabeta.com/
+
+
+
+CubieBoard
+http://www.cubieboard.com.br/
+
+
+pcDuino
+http://www.pcduino.com/
+
+BananaPi
+http://www.bananapi.org/
+
+BeagleBoard
+
+http://beagleboard.org/
+
+Lojas virtuais que promovem DIY :
+    MakerShed
+    http://www.makershed.com/
+
+    MakerTronic
+    http://www.makertronic.com/
+
+    GadGetFactory OS HW
+    http://www.gadgetfactory.net/
+
+    SainsMart - Robots
+    http://www.sainsmart.com/
+
+    CuteDigit
+    http://cutedigi.com/
+
+    Eletronic Hobby Store
+    http://www.electronics123.com/
+
+
+Computação Fisica
+http://dreamfeel.wordpress.com/2009/03/07/computacao-fisica/
+
+
+Disney IoT bet:
+http://www.businessweek.com/articles/2014-03-07/disney-bets-1-billion-on-technology-to-track-theme-park-visitors#r=read
+
+IoT and OpenSource
+http://osdelivers.blackducksoftware.com/2013/04/11/the-internet-of-things-and-open-source/
+
+
+http://iot.eclipse.org/
+
+http://osdelivers.blackducksoftware.com/2014/03/26/alljoyn-open-source-qualcomm-the-commons-and-the-internet-of-things/
+
+

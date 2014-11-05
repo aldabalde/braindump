@@ -1,0 +1,139 @@
+IoT
+Internet das Coisas
+IoT
+Curso IoT
+PUC-RJ
+
+# IoT Definição
+
+"""The Internet of Things (IoT) refers to the interconnection of uniquely identifiable embedded computing-like devices within the existing Internet infrastructure. Typically, IoT is expected to offer advanced connectivity of devices, systems, and services that goes beyond machine-to-machine communications (M2M) and covers a variety of protocols, domains, and applications.[1] The interconnection of these embedded devices (including smart objects), is expected to usher in automation in nearly all fields, while also enabling advanced applications like a Smart Grid.[2]"""
+<a href="http://en.wikipedia.org/wiki/Internet_of_Things" > IoT Wikipedia</a>
+
+# Características
+- Poder Computacional Anywhere
+- Um dos vértices da Terceira pLataforma, junto com Cloud e BigData
+- Equipamentos "baratos" com inteligência nas pontas
+- Voltada para o Hardware, vai além dos smartphones
+- Caminho para a integtração maior entre Homem e máquina 
+
+
+# Possibilidades
+
+- Controle de Frota (Onibus/ Taxis)
+- Medidas do meio Ambiente ( Pluviômetros) 
+- Medical Care
+- Oceanografia
+- Automação Residêncial
+- Energy Smart Grid
+- Robótica
+- Sistemas Agropecuários
+- Artes
+- Ferramenta de Marketing
+- Educação
+- Sistemas de Rede
+
+
+
+# Atividades 
+- Tutorial
+- Simulação de um ambiente 
+- Laboratório de montagem de módulos de Hardware
+- Estudo de Caso com cenários de uso da tecnologia
+
+
+
+# IoT Panorama
+<iframe src="http://www.slideshare.net/slideshow/embed_code/36538061" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<a href="https://pt.slideshare.net/PascalBodin/20140630-io-tpanoramapbv20" title="IoT: a panorama" target="_blank">IoT: a panorama</a> </strong> from <strong><a href="http://www.slideshare.net/PascalBodin" target="_blank">Pascal Bodin</a>
+
+# Architecture IoT
+<iframe src="http://www.slideshare.net/slideshow/embed_code/10216032" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<a href="https://pt.slideshare.net/escherich/architecture-iot" title="Architecture @ IoT" target="_blank">Architecture @ IoT</a> </strong> from <strong><a href="http://www.slideshare.net/escherich" target="_blank">Kim Escherich</a>
+
+# Business Aspect 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/20420491" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/misterdom/business-aspects-of-the-iot-making-products-smart" title="Business Aspects of the IoT: Making Products Smart" target="_blank">Business Aspects of the IoT: Making Products Smart</a> </strong> from <strong><a href="http://www.slideshare.net/misterdom" target="_blank">Dominique Guinard</a>
+
+# Aplied Social Capital
+<iframe src="http://www.slideshare.net/slideshow/embed_code/36057007" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/willi/iot-and-applied-social-capital-theory" title="IoT and applied Social Capital Theory" target="_blank">IoT and applied Social Capital Theory</a> </strong> from <strong><a href="http://www.slideshare.net/willi" target="_blank">Willi Schroll</a>
+
+# involving Comunities
+<iframe src="http://www.slideshare.net/slideshow/embed_code/36144147" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/CharalamposDoukas/involving-communities-in-iot-eu-projects" title="Involving communities in IoT EU Projects" target="_blank">Involving communities in IoT EU Projects</a> </strong> from <strong><a href="http://www.slideshare.net/CharalamposDoukas" target="_blank">Charalampos Doukas</a>
+
+# Steps to Scale IoT 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35553814" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/rmaranon/cisco-tech-advantage-webinar-steps-to-scale-internet-of-things-iot" title="Steps to Scale Internet of Things (IoT)" target="_blank">Steps to Scale Internet of Things (IoT)</a> </strong> from <strong><a href="http://www.slideshare.net/rmaranon" target="_blank">Rafael Maranon</a>
+
+# Emerging IoT Business Landscape
+<iframe src="http://www.slideshare.net/slideshow/embed_code/27738445" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/claropartners/claro-io-twf1329oct2013" title="The Emerging IoT Business Landscape " target="_blank">The Emerging IoT Business Landscape </a> </strong> from <strong><a href="http://www.slideshare.net/claropartners" target="_blank">Claro Partners</a>
+
+#  IoT Fisl15 - Jomar
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35056407" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/IntelSoftwareBR/io-t-fisl15" title="IoT FISL15" target="_blank">IoT FISL15</a> </strong> from <strong><a href="http://www.slideshare.net/IntelSoftwareBR" target="_blank">Intel Software Brasil</a>
+
+# Dream Factory
+<iframe src="http://www.slideshare.net/slideshow/embed_code/38342837" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/DreamFactorySoftware/dreamfactory-framtackiotwebinar" title="Building IoT Apps in the Cloud Webinar" target="_blank">Building IoT Apps in the Cloud Webinar</a> </strong> from <strong><a href="http://www.slideshare.net/DreamFactorySoftware" target="_blank">DreamFactory</a>
+
+# 7 Virtues IoT
+<iframe src="http://www.slideshare.net/slideshow/embed_code/29045251" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/svjethani/7-virtues-of-an-iot-application" title="7 virtues of an IoT application" target="_blank">7 virtues of an IoT application</a> </strong> from <strong><a href="http://www.slideshare.net/svjethani" target="_blank">Seema Jethani</a>
+
+# IoT Architecture
+<iframe src="http://www.slideshare.net/slideshow/embed_code/36537381" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/wso2.org/io-t-referencearchitecturewebinar" title="A Reference Architecture for IoT " target="_blank">A Reference Architecture for IoT </a> </strong> from <strong><a href="http://www.slideshare.net/wso2.org" target="_blank">WSO2</a>
+
+# Creativity< inovation & IoT
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35924117" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/ReidCarlberg/internet-of-things-creativity-innovation-the-internet-of-things-iot-world" title="Internet Of Things: Creativity, Innovation &amp; The Internet of Things IOT World" target="_blank">Internet Of Things: Creativity, Innovation &amp; The Internet of Things IOT World</a> </strong> from <strong><a href="http://www.slideshare.net/ReidCarlberg" target="_blank">ReidCarlberg</a>
+
+
+# Smart Cities
+<iframe src="http://www.slideshare.net/slideshow/embed_code/13421230" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<a href="https://pt.slideshare.net/gustahrodrigues/internet-of-things-and-smart-cities" title="Internet of Things and Smart Cities" target="_blank">Internet of Things and Smart Cities</a> </strong> from <strong><a href="http://www.slideshare.net/gustahrodrigues" target="_blank">Gustavo Henrique Rodrigues Pinto Tomas</a>
+
+
+
+# IoT Iceberg 
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/38372720" width="800" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<a href="https://pt.slideshare.net/mazlan1/internet-of-things-iot-we-are-at-the-tip-of-an-iceberg" title="Internet of Things (IoT) - We Are at the Tip of An Iceberg" target="_blank">Internet of Things (IoT) - We Are at the Tip of An Iceberg</a> </strong> from <strong><a href="http://www.slideshare.net/mazlan1" target="_blank">Mazlan Abbas</a>
+
+
+# Internet das Coisas NIC.br  
+<iframe width="800" height="550" src="https://www.youtube.com/embed/jlkvzcG1UMk" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/jlkvzcG1UMk
+
+# TedX IoT Dr. John Barret
+<iframe width="800" height="550" src="https://www.youtube.com/embed/QaTIt1C5R-M" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/QaTIt1C5R-M
+
+# Intel IoT
+<iframe width="800" height="550" src="https://www.youtube.com/embed/Q3ur8wzzhBU" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/Q3ur8wzzhBU
+
+# Harvard Lab
+<iframe width="800" height="550" src="https://www.youtube.com/embed/Yd98Naz8jvQ" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/Yd98Naz8jvQ
+
+# A Day in life with IoT
+<iframe width="800" height="550" src="https://www.youtube.com/embed/fFqEx--b7hU" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/fFqEx--b7hU
+
+# IoT meets BigData 
+<iframe width="800" height="550" src="https://www.youtube.com/embed/l_LT_ZKlVQw" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/l_LT_ZKlVQw
+
+# Gabriel Marão IoT
+<iframe width="800" height="550" src="https://www.youtube.com/embed/XpQNBuiW234" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/XpQNBuiW234
+
+# CPBR7 IoT Luciano Ramalho
+<iframe width="800" height="550" src="https://www.youtube.com/embed/I-aAaXjoZms" frameborder="0" allowfullscreen></iframe>
+Ref.:https://www.youtube.com/embed/I-aAaXjoZms
+
+
+
