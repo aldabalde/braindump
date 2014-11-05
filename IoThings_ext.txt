@@ -70,12 +70,12 @@ the rivers.
 -- IoT é a expansão da web para o mundo real.
 
 
-IoT é um conjunto de hardware conectados entre si gnalisando e erando dados com
+IoT é um conjunto de hardware conectados entre si analisando e gerando dados com
 valor agregado pelo conjunto. 
 
 
-Evoluçãop de hw:
-2 [2006] >> 15 [2015] >> 200 [2020]
+Evolução de quantidade de hw ( Bilhões)i, segundo a Cisco:
+6 [2006] >> 15 [2015] >> 200 [2020]
 
 
          << Sensor <<
@@ -123,8 +123,8 @@ Oportunidade para criar novas soluções a partir de um cenário inédito.
 http://www.intel.com/content/www/us/en/internet-of-things/infographics/guide-to-iot.html
 
 
-
-
+TedX: O que é IoT - Dr.John Barrett
+https://www.youtube.com/watch?v=QaTIt1C5R-M
 
 
 Yocto project
