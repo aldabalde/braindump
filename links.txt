@@ -40,9 +40,6 @@ http://www.pcbcart.com/
 PCB
 http://www.yingstar-pcba.com/
 
-TechShop is a playground for creativity.
-http://www.techshop.ws
-
 You’ve got a prototype. We’ve got a roadmap.
 http://highway1.io/
 
