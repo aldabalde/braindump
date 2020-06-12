@@ -1,3 +1,6 @@
+"
+" write to /etc/vim/vimrc.local
+"
 " Mouse and backspace
 set mouse=a
 
